@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Matthew Morrow",
+  "license": "N/A",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.6"
   }
 }
