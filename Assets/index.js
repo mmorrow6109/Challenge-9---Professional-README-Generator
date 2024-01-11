@@ -25,8 +25,7 @@ ${data.usage}
 
 ## License
 ${data.license !== 'N/A' ? 
-`![License](https://img.shields.io/badge/license-${data.license}-brightgreen)
-This project is licensed under the terms of the ${data.license} license.` : 
+`This project is licensed under the terms of the ${data.license} license.` : 
 'This project is not licensed.'}
 
 ## Contributing
